@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor, I'm KasRoudra!</h1>
+<h1 align="center">Hi visitor, I'm Adit!</h1>
 <p align="center">
 <a href="https://kasroudra.github.io/" target="_blank"><img align="center" src="https://github.com/KasRoudra/kasroudra.github.io/raw/main/icons/android-512x512.png" alt="KasRoudra's Portfolio" height="100" width="100"></a>
 </p>
