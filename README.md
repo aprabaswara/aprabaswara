@@ -130,6 +130,8 @@
 
 <a href="https://www.kaggle.com/adityaprabaswara" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 
+<a href="https://public.tableau.com/app/profile/aditya.prabaswara.mardjikoen/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+
 <a href="mailto:aprabaswaragmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-aprabaswara@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
