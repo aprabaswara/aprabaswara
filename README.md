@@ -19,14 +19,15 @@ Passionate data analyst and scientist skilled in mathematics, statistics, and ma
 - Database: PostgreSQL, MySQL, Microsoft SQL Server.
 - ETL: Talend
 - Data Visualization: Tableau, Power BI, Google Data Studio, Plotly, Matplotlib, Seaborn, ggplot.
-- Data Processing: Minitab, SPSS, Pandas, Data Table, Excel, Google Sheet.
+- Data Processing: Minitab, SPSS, Pandas, Data Table, Excel, Google Sheet, mice.
 - Web Analytics: Google Analytics, Google Search Console, Google Tag Manager, Google Ads.
 - Platform: IBM Watson Studio, Cloudera, Google BigQuery.
 - Cloud: IBM Cloud
-- Machine Learning: Scikit-Learn, Scipy, AutoML.
+- Machine Learning: Scikit-Learn, Scipy, AutoML, PyCaret, mgcv.
 - Deep Learning: Keras, Tensorflow.
 - Natural Language Processing: NLTK, Scapy.
 - Big Data: Pyspark.
+- Bayesian Data Analysis: mcmc r-jags, Coda, INLA.
 
 <h2 align="center"><u>My Latest Work</u></h2>
 
