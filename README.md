@@ -22,7 +22,7 @@ Passionate data analyst and scientist skilled in mathematics, statistics, and ma
 - Data Processing: Minitab, SPSS, Pandas, Data Table, Excel, Google Sheet, mice.
 - Web Analytics: Google Analytics, Google Search Console, Google Tag Manager, Google Ads.
 - Platform: IBM Watson Studio, Cloudera, Google BigQuery.
-- Cloud: IBM Cloud
+- Cloud: IBM Cloud.
 - Machine Learning: Scikit-Learn, Scipy, AutoML, PyCaret, mgcv.
 - Deep Learning: Keras, Tensorflow.
 - Natural Language Processing: NLTK, Scapy.
