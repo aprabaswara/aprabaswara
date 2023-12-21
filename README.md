@@ -126,7 +126,7 @@
 
 <a href="https://github.com/aprabaswara" target="_blank"><img src="https://img.shields.io/badge/Github-aprabaswara-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://facebook.com/aditya.prabaswara3" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
 
 <a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
 
