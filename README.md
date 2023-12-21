@@ -126,11 +126,11 @@
 
 <a href="https://github.com/aprabaswara" target="_blank"><img src="https://img.shields.io/badge/Github-aprabaswara-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://facebook.com/aditya.prabaswara3" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.linkedin.com/in/aditya-prabaswara-mardjikoen-a072981b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://www.kaggle.com/adityaprabaswara" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 
 <a href="mailto:aprabaswaragmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-aprabaswara@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
-Credit: [KasRoudra](https://github.com/KasRoudra)
+Credit: [KasRoudra](https://github.com/aprabaswara)
