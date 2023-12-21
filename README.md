@@ -1,89 +1,33 @@
 <h1 align="center">Hi visitor, I'm Adit!</h1>
 <p align="center">
-<a href="https://kasroudra.github.io/" target="_blank"><img align="center" src="https://github.com/KasRoudra/kasroudra.github.io/raw/main/icons/android-512x512.png" alt="KasRoudra's Portfolio" height="100" width="100"></a>
-</p>
-<h3 align="center">Formerly a student but passionate in programming</h3>
+<h3 align="center">
+Passionate data analyst and scientist skilled in mathematics, statistics, and machine learning, dedicated to transforming intricate data into impactful solutions.</h3>
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
 
- - I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
+ - I've been learning Python/R programming, SQL, Machine Learning, Natural Language Processing, and Deep Learning.
  
- - My hobby is reading books, listening music, playing games.
+ - My hobby is reading books, travelling, and watching movies.
 
- - Sometimes, I write small poems, stories too.
+ - Sometimes, I participate on a data science competition or write data science article in Kaggle.
 
- - I make ringtones, fake screenshots, memes, meme templates in my leisure time.
- 
- - I love to collect apps, games, movies, songs, fonts, iso etc.
+ - Previously a postgraduate student in the University of Edinburgh and have been solve real-world data-driven problem related with big data during my study there.
 
- - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
+<h2 align="center"><u>Technical Skills</u></h2>
 
-</p>
+- Programming: Python, R, MATLAB.
+- Database: PostgreSQL, MySQL, Microsoft SQL Server.
+- ETL: Talend
+- Data Visualization: Tableau, Power BI, Google Data Studio, Plotly, Matplotlib, Seaborn, ggplot.
+- Data Processing: Minitab, SPSS, Pandas, Data Table, Excel, Google Sheet.
+- Web Analytics: Google Analytics, Google Search Console, Google Tag Manager, Google Ads.
+- Platform: IBM Watson Studio, Cloudera, Google BigQuery.
+- Cloud: IBM Cloud
+- Machine Learning: Scikit-Learn, Scipy, AutoML.
+- Deep Learning: Keras, Tensorflow.
+- Natural Language Processing: NLTK, Scapy.
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Apps</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </kbd>
-</p>
-
-<h2 align="center"><u>My Best Works</u></h2>
+<h2 align="center"><u>My Works</u></h2>
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
@@ -135,4 +79,3 @@
 <a href="mailto:aprabaswaragmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-aprabaswara@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
-Credit: [KasRoudra](https://github.com/aprabaswara)
