@@ -16,72 +16,31 @@
 ## 💻 Tech Explorer
 
 ### 🖥️ Programming
-- <img src="https://img.icons8.com/color/48/000000/python.png"/> Python 🐍
-- <img src="https://img.icons8.com/color/48/000000/r.png"/> R 📊
-- <img src="https://img.icons8.com/ios-filled/50/000000/matlab.png"/> MATLAB 📈
+- Python 🐍
+- R 📊
 
-### 🛠️ Database Skills
-- <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> PostgreSQL 🐘
-- <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL 🤠
-- <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png"/> MS SQL Server 🚀
+### 🛠️ Databases & ETL
+- PostgreSQL, MySQL, MS SQL Server 🚀
+- Talend 🌪️
 
-### 🌀 ETL Magic
-- <img src="https://img.icons8.com/color/48/000000/talend.png"/> Talend 🌪️
+### 📊 Data Preparation & Visualization Tools
+- Tableau, Power BI, Looker, Seaborn, Matplotlib, ggplpot, tidyverse, Plotly 📈
+- Excel, Google Sheets, SPSS, Minitab 📊
 
-### 📊 Data Visualization
-- <img src="https://img.icons8.com/office/40/000000/tableau-software.png"/> Tableau 📊
-- <img src="https://img.icons8.com/office/40/000000/power-bi.png"/> Power BI 🔥
-- <img src="https://img.icons8.com/color/48/000000/google-data-studio.png"/> Google Data Studio 🌐
-- <img src="https://img.icons8.com/ios-filled/50/000000/plotly.png"/> Plotly 📈
-- <img src="https://img.icons8.com/color/48/000000/matplotlib.png"/> Matplotlib 🌈
-- <img src="https://img.icons8.com/color/48/000000/seaborn.png"/> Seaborn 📊
-- <img src="https://img.icons8.com/color/48/000000/ggplot2.png"/> ggplot 📈
+### 🌐 Web & Analytics
+- Google Analytics, Search Console, Tag Manager, Ads 📈
 
-### 🧩 Data Tools
-- <img src="https://img.icons8.com/color/48/000000/minitab.png"/> Minitab 📊
-- <img src="https://img.icons8.com/ios-filled/50/000000/spss.png"/> SPSS 📈
-- <img src="https://img.icons8.com/color/48/000000/pandas.png"/> Pandas 📊
-- <img src="https://img.icons8.com/color/48/000000/data-table.png"/> Data Table 📈
-- <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/> Excel 📊
-- <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/> Google Sheets 📈
-- <img src="https://img.icons8.com/color/48/000000/mouse-animal.png"/> MICE 🐭
-
-### 🌐 Web Analytics
-- <img src="https://img.icons8.com/color/48/000000/google-analytics.png"/> Google Analytics 📈
-- <img src="https://img.icons8.com/color/48/000000/google-search-console.png"/> Search Console 🔍
-- <img src="https://img.icons8.com/color/48/000000/google-tag-manager.png"/> Tag Manager 📟
-- <img src="https://img.icons8.com/color/48/000000/google-adwords.png"/> Google Ads 📈
-
-### 🚀 Platforms
-- <img src="https://img.icons8.com/color/48/000000/ibm.png"/> IBM Watson Studio 🧠
-- <img src="https://img.icons8.com/color/48/000000/cloudera.png"/> Cloudera 🌐
-- <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> Google BigQuery 🚀
-
-### ☁️ Cloud Skills
-- <img src="https://img.icons8.com/color/48/000000/ibm.png"/> IBM Cloud ☁️
+### 🚀 Platforms & Cloud
+- IBM Watson Studio, Cloudera, BigQuery ☁️
 
 ### 🤖 Machine Learning
-- <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/> Scikit-Learn 🧪
-- <img src="https://img.icons8.com/color/48/000000/scipy.png"/> Scipy 🧬
-- <img src="https://img.icons8.com/nolan/64/000000/auto_ml.png"/> AutoML 🤖
-- <img src="https://img.icons8.com/color/48/000000/pycaret.png"/> PyCaret 🎩
-- <img src="https://img.icons8.com/color/48/000000/mgcv.png"/> mgcv 📊
+- Scikit-Learn, Scipy, H2O AutoML, PyCaret, Tensorflow ⚙️
 
-### 🧠 Deep Learning
-- <img src="https://img.icons8.com/color/48/000000/keras.png"/> Keras 🌟
-- <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> Tensorflow ⚙️
-
-### 🗣️ NLP Ninja
-- <img src="https://img.icons8.com/color/48/000000/nltk.png"/> NLTK 📜
-- <img src="https://img.icons8.com/color/48/000000/programming-language.png"/> Scapy 🌐
-
-### 🌐 Big Data Explorer
-- <img src="https://img.icons8.com/color/48/000000/apache-spark.png"/> Pyspark 🚀
+### 🗣️ NLP & 🌐 Big Data
+- NLTK, Scapy, Pyspark 🚀
 
 ### 📊 Bayesian Alchemy
-- <img src="https://img.icons8.com/plasticine/100/000000/dice.png"/> mcmc r-jags 🎲
-- <img src="https://img.icons8.com/ios-filled/50/000000/coda.png"/> Coda 📊
-- <img src="https://img.icons8.com/ios/50/000000/milky-way-galaxy.png"/> INLA 🌌
+- Jags, Coda, INLA 🌌
 
 ## 🚀 Let's Dive Into Data Together!
 
