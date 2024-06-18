@@ -77,7 +77,7 @@ Feel free to explore the details:
 <img src="https://github-profile-trophy.vercel.app/?username=aprabaswara&theme=juicyfresh&no-bg=true" />
 
 ## 🚀 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prabaswara-mardjikoen-a072981b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prabaswara/)
 [![Email](https://img.shields.io/badge/Email-teal?style=flat-square&logo=gmail)](mailto:aprabaswara@gmail.com)
 [![GitHub](https://img.shields.io/badge/Github-green?style=flat-square&logo=github)](https://github.com/aprabaswara)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/adityaprabaswara)
