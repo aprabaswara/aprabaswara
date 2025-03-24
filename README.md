@@ -86,7 +86,7 @@ Feel free to explore the details:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aprabaswara_47512)
 [![Your Acclaim](https://img.shields.io/badge/Badges-2D4E00?style=flat-square&logo=credly)](https://www.credly.com/users/aditya-prabaswara-mardjikoen/badges)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2D4E00?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/aprabaswara)
-[![Graph Academy](![image](https://github.com/user-attachments/assets/787a2dbc-7032-4bc4-9a75-d090edce6b53)
-)]([https://www.hackerrank.com/profile/aprabaswara](https://graphacademy.neo4j.com/u/fe24f08c-a953-4242-9e2d-04006a05e96a/))
+[![Graph Academy](https://github.com/user-attachments/assets/787a2dbc-7032-4bc4-9a75-d090edce6b53)
+)](https://graphacademy.neo4j.com/u/fe24f08c-a953-4242-9e2d-04006a05e96a/))
 
 ------
