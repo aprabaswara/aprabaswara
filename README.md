@@ -84,7 +84,7 @@ Feel free to explore the details:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/adityaprabaswara)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.prabaswara.mardjikoen/vizzes)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aprabaswara_47512)
-[![Credly](https://img.shields.io/badge/Badges-2D4E00?style=flat-square&logo=credly)](https://www.credly.com/users/aditya-prabaswara-mardjikoen/badges)
+[![Credly](https://img.shields.io/badge/Badges-2D4E00?style=flat-square&logo=credly)](https://www.credly.com/users/aditya-prabaswara-mardjikoen/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2D4E00?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/aprabaswara)
 [![Neo4j](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)](https://graphacademy.neo4j.com/u/fe24f08c-a953-4242-9e2d-04006a05e96a/)
 
