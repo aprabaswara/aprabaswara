@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f92fe68-ae87-4961-9b9a-323e55536cc6)<h1 align="center">Greetings, Trailblazer! 🚀 I'm Adit. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> </h1>
+<h1 align="center">Greetings, Trailblazer! 🚀 I'm Adit. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> </h1>
 <p align="center">
   <h3 align="center">Enthusiastic data analyst and scientist, weaving magic with numbers, patterns, and algorithms.</h3>
 
