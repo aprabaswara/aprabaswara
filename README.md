@@ -21,7 +21,7 @@
 
 ### 🛠️ Databases & ETL
 - PostgreSQL, MySQL, MS SQL Server 🚀
-- Neo4j
+- Neo4j ![image](https://github.com/user-attachments/assets/292867bb-127f-48eb-9f5c-84b5292ec21f)
 - Talend 🌪️
 
 ### 📊 Data Preparation & Visualization Tools
